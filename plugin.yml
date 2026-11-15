@@ -1,0 +1,8 @@
+name: TgLink
+version: 1.0
+main: me.server.tglink.TgLinkPlugin
+api-version: '26.3'
+commands:
+  tg:
+    description: Привязка аккаунта Telegram
+    usage: /tg <код>
